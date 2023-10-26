@@ -1,4 +1,5 @@
 
+import SanthiPortfolio from '../../Assets/SanthiPortfolioUI.png'
 import PersonalWebUI from "../../Assets/SanthiBlogs.png";
 import drumGame from "../../Assets/DrumGame.png";
 export const ProjectData = [
@@ -6,9 +7,9 @@ export const ProjectData = [
   {
     title: "My Protfolio - React",
     description: "",
-    img:  PersonalWebUI,
-    gitLink: "",
-    demoLink: "",
+    img:  SanthiPortfolio,
+    gitLink: "https://github.com/santhipriyabitta/Portfolio-website-React",
+    demoLink: "https://portfolio-website-react-pi.vercel.app/",
   },
  
  

@@ -1,12 +1,12 @@
 <h2 align="center">
   Portfolio Website - v1.0<br/>
-  <a href="" target="_blank">Live Website</a>
+  <a href="https://portfolio-website-react-pi.vercel.app/" target="_blank">Live Website</a>
 
 </h2>
 
 <br/>
 
-
+![Santhi Portfolio HomePage](src/Assets/SanthiPortfolioUI.png)
 
 ## About Project
 
@@ -17,6 +17,7 @@ It is a Protifolio Website developed using following tools & technologies<br/>
 - CSS3
 - VsCode
 - Vercel
+- Git & GitHub
 
 ## Getting Started
 
